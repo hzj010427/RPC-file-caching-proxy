@@ -1,1 +1,0 @@
-# RPC-file-caching-proxy
